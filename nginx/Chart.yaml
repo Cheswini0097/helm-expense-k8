@@ -1,0 +1,4 @@
+apiVersion: v1
+name: nginx
+verssion: 0.0.2
+description: This Chart to manage nginx application
